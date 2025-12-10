@@ -1,0 +1,8 @@
+{
+  "name": "EcoDorm 物联网 SaaS",
+  "description": "标准化的物联网SaaS底座，用于宿舍管理，具有智能控制策略、通用计费引擎和安全报警系统。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
